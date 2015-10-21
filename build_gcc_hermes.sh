@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#  build script to build gcc 4.9.3
+#  for Hermes cluster @ University of Florida, Dept of Materials Science and Engineering
+#  eragasa@ufl.edu
+
 GCC_VERSION=4.9.3
 WORK_DIR=$HOME/src/
 INSTALL_DIR=$HOME/usr/local/gcc/4.9.3
